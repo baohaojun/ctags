@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # check for Bash's here-strings as they need not to be misinterpreted as
 # here-documents
 
